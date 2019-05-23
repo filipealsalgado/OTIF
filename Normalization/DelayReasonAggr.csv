@@ -1,0 +1,38 @@
+MaterialGroup5,MaterialGroup5Aggr
+Not Assigned,Others Not Classified
+CR - Lack of Credit,Credit
+IC - Customer Request,Customer
+CE - Pick Up by the Customer,Customer
+AP - Delay of Planning/Production,Planning/Production
+AD - Anticipation Delivery,Planning/Production
+X6 - goods not supplied-warehouse,Planning/Production
+XK - Availability,Planning/Production
+CG - Composition of Load,Transport
+IP Lack of Impregnated Paper,Planning/Production
+QL - Quality Problem,Planning/Production
+RP - Lack of Dry Paper,Planning/Production
+CN - Waits Order of Load,Transport
+SP - Downtime production,Planning/Production
+ES - Stock strategy,Planning/Production
+XX - Order entry error,Others
+"XH - load features (weight,size...)",Transport
+TR - Transportation,Transport
+EC - Partial Delivery,Transport
+FM - Lack of Raw Materials,Planning/Production
+LP Lack of particle boards,Planning/Production
+XR - Commercial Priority,Planning/Production
+complete delivery AP,Transport
+X1 - NOT LOADED-LOADING CAPACITY,Planning/Production
+AA - Delay on Pricing Approval,Others
+##X9 - LACK OF SPACE-LOAD PREPARATION,Planning/Production
+##XP - Order blocked,Planning/Production
+LL Lack of laminates,Planning/Production
+X4 - SAME DAY LOADING AND DELIVERY,Transport
+X7 - goods not provided-production,Planning/Production
+XI - transport not organised,Transport
+XJ - CRDD no transport day,Transport
+"XL - CRDD not realistic, becaus MTO",Transport
+XM - Tour not filled,Planning/Production
+##AE - Damage of Equipment,Planning/Production
+##RS - Lack of Stock / Express Collectio,Planning/Production
+##XE - GOODS NOT PACKED,Transport
